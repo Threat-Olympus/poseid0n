@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"230cc83a8b06d499","x":-455,"y":-560,"width":250,"height":60,"type":"text","text":""},
+		{"id":"4aa875c1ac65e708","type":"text","text":"# Data Collection module","x":-540,"y":-760,"width":420,"height":60},
+		{"id":"e58fcf89ccb711c2","x":-392,"y":-660,"width":112,"height":60,"type":"text","text":"Start"}
+	],
+	"edges":[]
+}

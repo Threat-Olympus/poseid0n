@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "8c33c659f3ec0d43",
+    "type": "split",
+    "children": [
+      {
+        "id": "f885145ecf77f57e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e694c5cc7b58d15a",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "posiedon-designs/posiedon-mods.canvas",
+                "viewState": {
+                  "x": 156.84369077374154,
+                  "y": -710.4290967412277,
+                  "zoom": -0.30435614860337973
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "520af2cb4abab6c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "9af3c4810bcd906b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48ac028dc6c46f01",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7586a4a9776b463",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0557494af7ab2cbf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "40db7cb978fd83d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e859107ccf092b32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce1c72eddc33dbb8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posiedon-designs/posiedon-mods.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c0ab70a0f8137f8e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posiedon-designs/posiedon-mods.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9d7d57a8ac8f246",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1e5da14c21a7e7ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posiedon-designs/posiedon-mods.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e694c5cc7b58d15a",
+  "lastOpenFiles": [
+    "posiedon-designs/posiedon-flow.canvas"
+  ]
+}
