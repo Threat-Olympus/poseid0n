@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"73528c4c9f125aa6","type":"text","text":"# Data Collection\n* Packet Capture\n","x":-300,"y":-480,"width":250,"height":240},
-		{"id":"db4064f5304d5db3","type":"text","text":"# Data Processing and Normalization\n* Data Parsing\n* Normalization","x":20,"y":-480,"width":480,"height":200},
+		{"id":"db4064f5304d5db3","type":"text","text":"# Data Processing and Normalization\n* Data Parsing and cleaning\n","x":20,"y":-480,"width":480,"height":200},
 		{"id":"98c6070dcae51248","type":"text","text":"# Threat Detection and Analysis\n* Signature based detection\n* Threat Intelligence Integration (Olympus)\n* Anamaly based detection","x":540,"y":-710,"width":360,"height":230},
 		{"id":"e1a6909c262f98e8","type":"text","text":"# Alerting Module\n* Alert engine\n* Report Engine","x":540,"y":-900,"width":400,"height":140},
 		{"id":"bacf2918aab2e4fe","type":"text","text":"# Data Base(Olympus) interaction module\n* send threat data, sample packets and signatures.","x":80,"y":-1140,"width":420,"height":200},

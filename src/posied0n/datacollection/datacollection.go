@@ -2,12 +2,13 @@ package datacollection
 
 import (
 	//"fmt"
+	"log"
+
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/pcap"
-	"log"
 )
 
-func Startcapture(v chan gopacket.Packet,itf string ) {
+func Startcapture(v chan gopacket.Packet, itf string) {
 	phyInterface := itf // Interface selection to be made dynamic
 	handle, err := pcap.OpenLive(phyInterface, 65536, true, pcap.BlockForever)
 	if err != nil {
