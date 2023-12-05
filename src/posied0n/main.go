@@ -10,7 +10,7 @@ import (
 
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/pcap"
-	"github.com/Threat-Olympus/poseid0n/src/posied0n/ruleengine/ruleengine"
+	"github.com/Threat-Olympus/poseid0n/src/posied0n/ruleengine"
 )
 
 func main() {
